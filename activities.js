@@ -1,3 +1,4 @@
+//Activity 1
 function getElementsByAttribute(attribute, value) {
   var all = document.getElementsbyTagName("*");
   var found = [];
@@ -9,3 +10,6 @@ function getElementsByAttribute(attribute, value) {
     }
   }
 };
+
+
+//Activity 2
