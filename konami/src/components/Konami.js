@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Mousetrap from 'mousetrap';
 
-class Kanami extends Component {
+class Konami extends Component {
   constructor(props){
     super(props);
     this.popUp = this.popUp.bind(this);
@@ -27,4 +27,4 @@ class Kanami extends Component {
   }
 }
 
-export default Kanami;
+export default Konami;
