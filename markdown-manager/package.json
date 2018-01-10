@@ -1,11 +1,11 @@
 {
-  "name": "markdown-note-manager",
+  "name": "markdown-manager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "milligram": "^1.3.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
     "react-scripts": "1.0.17",
     "react-simplemde-editor": "^3.6.11"
   },
